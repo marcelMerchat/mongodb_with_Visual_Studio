@@ -1,0 +1,10 @@
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoSample.exe.config
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoSample.exe
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoSample.pdb
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoDB.Bson.dll
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoDB.Driver.dll
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoDB.Bson.xml
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\bin\Debug\MongoDB.Driver.xml
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\obj\Debug\MongoSample.exe
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\obj\Debug\MongoSample.pdb
+C:\Users\merch\Documents\github\mongodb-mva\module3_language_drivers\CSharpStart\obj\Debug\MongoSample.csprojResolveAssemblyReference.cache
